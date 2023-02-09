@@ -63,9 +63,9 @@ Esse projeto foi desenvolvido na DartWeek dos dias 30 de janeiro ao dia 04 de fe
  
  ## Como usar
 - Com o git instalado no computador, clone o repositório usando o:
-$ git clone https://github.com/Gustavobeckr/Dart-Week-9.git
+$ git clone https://github.com/Gustavobeckr/DartWeekApp.git
 - Entre no diretório com:
-$ cd .\Dart-Week-9
+$ cd .\dart-week-app
 - Vá para o VSCode com: 
 $ code .
 - Obtenha os packages:
